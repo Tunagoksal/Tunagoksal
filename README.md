@@ -1,2 +1,2 @@
 I'm tuna göksal 
-My major is computer science and I'm a freshmen  at bilkent
+I'm a undergrad Cs student at bilkent at my second year. 
